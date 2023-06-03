@@ -8,7 +8,7 @@ import '../../config/theme/color.dart';
 
 class DownloadBottomSheet extends StatelessWidget {
   const DownloadBottomSheet({Key? key}) : super(key: key);
-  static var iosUrl = "https://apps.apple.com/us/app/日本薦學/id6449745957";
+  static var iosUrl = "https://testflight.apple.com/join/ZrFsW81j";
   static var androidUrl =
       "https://play.google.com/store/apps/details?id=com.seielika.japan_study_app";
   static var apiSourceUrl = "https://github.com/SeiElikA/japan-study-app-api";
